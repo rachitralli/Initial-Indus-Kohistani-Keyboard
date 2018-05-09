@@ -24,10 +24,10 @@ Links
 
 Supported Platforms
 -------------------
-•	Windows
-•	Web
-•	iOS
-•	Android
+* Windows
+* Web
+* iOS
+* Android
 
  
 Todo
