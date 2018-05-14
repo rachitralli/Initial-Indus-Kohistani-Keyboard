@@ -28,6 +28,8 @@ Supported Platforms
 * Web
 * iOS
 * Android
+* iPad
+* iPhone
 
  
 Todo
